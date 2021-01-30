@@ -162,7 +162,7 @@
     width: 40px;
     font-size: 25px;
     font-weight: bold;
-    background-color: red;
+    background-color: tomato;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -177,6 +177,6 @@
     margin: 20px 0;
   }
   #confirmation-area h2 {
-    color: limegreen;
+    color: blue;
   }
   
